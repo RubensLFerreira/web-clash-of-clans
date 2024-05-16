@@ -1,7 +1,9 @@
-function App() {
+import { Home } from "./pages/Home";
+
+export const App: React.FC = () => {
   return (
     <>
-      <h1>Hello world</h1>
+      <Home />
     </>
   );
 }
