@@ -81,7 +81,7 @@ export const Container: React.FC = () => {
             <div className="div1">
               <img
                 className="image-left-top"
-                src="../../../public/liga.png"
+                src="https://api-assets.clashofclans.com/leagues/288/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png"
                 alt=""
               />
             </div>
@@ -89,17 +89,17 @@ export const Container: React.FC = () => {
             <div className="div2">
               <img
                 className="image-left-middle"
-                src="../../../public/skill1.png"
+                src="https://api-assets.clashofclans.com/labels/64/LIXkluJJeg4ATNVQgO6scLheXxmNpyBLRYGldtv-Miw.png"
                 alt=""
               />
               <img
                 className="image-left-middle"
-                src="../../../public/skill2.png"
+                src="https://api-assets.clashofclans.com/labels/64/MvL0LDt0yv9AI-Vevpu8yE5NAJUIV05Ofpsr4IfGRxQ.png"
                 alt=""
               />
               <img
                 className="image-left-middle"
-                src="../../../public/skill3.png"
+                src="https://api-assets.clashofclans.com/labels/64/u-VKK5y0hj0U8B1xdawjxNcXciv-fwMK3VqEBWCn1oM.png"
                 alt=""
               />
             </div>
@@ -122,7 +122,7 @@ export const Container: React.FC = () => {
             <div className="div4">
               <img
                 className="image-right-top"
-                src="../../../public/clan.png"
+                src="https://api-assets.clashofclans.com/badges/200/C-6MB68lUQYvvgpqrXlJRAWbwnXDp3bBBuWBCTgFRNU.png"
                 alt=""
               />
             </div>
@@ -130,7 +130,7 @@ export const Container: React.FC = () => {
             <div className="div5">
               <img
                 className="image-rigth-bottom"
-                src="../../../public/cv/cv-14.png"
+                src="https://www.clashofclans-dicas.com/wp-content/uploads/2014/04/centro-de-vila-14-giga-inferno-nivel-4-clash-of-clans.png"
                 alt=""
               />
             </div>
