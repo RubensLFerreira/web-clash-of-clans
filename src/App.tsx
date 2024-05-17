@@ -6,6 +6,6 @@ export const App: React.FC = () => {
       <Home />
     </>
   );
-}
+};
 
 export default App;
